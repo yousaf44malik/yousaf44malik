@@ -14,6 +14,9 @@
 💬 Ask me about **Network Security, Shell Scripting, SDR Programming**
 
 📫 How to reach me **yousaf44malik@gmail.com**
+<h2>Profile Visits:</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/yousaf44malik/count.svg)
 
 <h3 align="left">My Socials</h3>
 <p align="left">
