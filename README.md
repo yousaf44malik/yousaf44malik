@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/IXnygGeB6LPPi.webp">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousaf44malik&label=Profile%20views&color=0e75b6&style=flat" alt="yousaf44malik" /> </p> -->
 
-🔭**Software Engineering Student at MCS, NUST**
+🔭**Software Engineering Student at NUST**
 
-📚Learning **White Hat Ethical Hacking, The MERN Stack, Digital Forensic Analysis**
+📚Learning **White Hat Ethical Hacking, The MERN Stack, Agentic Workflow**
 
-👯Let's collaborate on **CyberSecurity, Script Automation, IOT Solutions**
+👯Let's collaborate on **Web Development, Generative AI, Agentic Workflows, Script Automation, IOT Solutions**
 
 💼My Portfolio: [https://yousafmalik.vercel.app](https://yousafmalik.vercel.app)
 
