@@ -5,7 +5,7 @@
 
 🔭**Software Engineering Student at NUST**
 
-📚Learning **The MERN Stack, Agentic Workflow, White Hat Ethical Hacking**
+📚Learning **Agentic Workflow, White Hat Ethical Hacking**
 
 👯Let's collaborate on **Web Development, Generative AI, Agentic Workflows, Script Automation, IOT Solutions**
 
