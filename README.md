@@ -9,9 +9,9 @@
 
 👯Let's collaborate on **CyberSecurity, Script Automation, IOT Solutions**
 
-💼My Portfolio: [https://mormon-pine.000webhostapp.com/](https://mormon-pine.000webhostapp.com/)
+💼My Portfolio: [https://yousafmalik.vercel.app](https://yousafmalik.vercel.app)
 
-💬 Ask me about **Network Security, Shell Scripting, SDR Programming**
+💬 Ask me about **The MERN Stack, Full Stack Applications, AI Agents, Agentic WorkFlow**
 
 📫 How to reach me **yousaf44malik@gmail.com**
 <h2>Profile Visits:</h2>
