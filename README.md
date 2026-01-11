@@ -3,15 +3,13 @@
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/IXnygGeB6LPPi.webp">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousaf44malik&label=Profile%20views&color=0e75b6&style=flat" alt="yousaf44malik" /> </p> -->
 
-🔭**Software Engineering Student at NUST**
+🔭**Software Engineer | Conversational AI | Multi Agent Workflows | N8N**
 
-📚Learning **Agentic Workflow, White Hat Ethical Hacking**
-
-👯Let's collaborate on **Web Development, Generative AI, Agentic Workflows, Script Automation, IOT Solutions**
+👯Let's collaborate on **Conversational AI, Generative AI, Agentic Workflows, No Code Solutions(N8N)**
 
 💼My Portfolio: [https://yousafmalik.vercel.app](https://yousafmalik.vercel.app)
 
-💬 Ask me about **The MERN Stack, Full Stack Applications, AI Agents, Agentic WorkFlow**
+💬 Ask me about **Livekit, AI Agents, Agentic WorkFlow, Full Stack Applications**
 
 📫 How to reach me **yousaf44malik@gmail.com**
 <h2>Profile Visits:</h2>
